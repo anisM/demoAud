@@ -27,7 +27,16 @@
     "autoload": {
         "classmap": [
             "database/seeds",
-            "database/factories"
+            "database/factories",
+            "ext/audemars/lib/custom/src",
+            "ext/audemars/controller/common/src",
+            "ext/audemars/controller/frontend/src",
+            "ext/audemars/controller/jobs/src",
+            "ext/audemars/client/html/src",
+            "ext/audemars/client/jsonapi/src",
+            "ext/audemars/admin/jqadm/src",
+            "ext/audemars/admin/jsonadm/src"
+
         ],
         "psr-4": {
             "App\\": "app/"
