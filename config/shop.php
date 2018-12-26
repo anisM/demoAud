@@ -82,7 +82,7 @@ return [
 	'madmin' => [
 		'cache' => [
 			'manager' => [
-				// 'name' => 'None', // Disable caching
+				 'name' => 'None', // Disable caching
 			],
 		],
 		'log' => [

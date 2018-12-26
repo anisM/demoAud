@@ -7,7 +7,7 @@
 
 	@yield('aimeos_header')
 
-	<title>Aimeos on Laravel</title>
+	<title>Audemars POC</title>
 
 	<link type="text/css" rel="stylesheet" href='https://fonts.googleapis.com/css?family=Roboto:400,300'>
 	<link type="text/css" rel="stylesheet" href="/css/app.css">
@@ -26,7 +26,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="/list">Aimeos</a>
+				<a class="navbar-brand" href="/list">AudemarsDemo</a>
 			</div>
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
