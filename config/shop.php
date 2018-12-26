@@ -69,6 +69,9 @@ return [
 						'width' => 'radio',
 					],
 				],
+				'social' => [
+					'list' => ['facebook','twitter'],
+				],
 			],
 		],
 	],
