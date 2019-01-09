@@ -77,6 +77,16 @@ return [
 	],
 
 	'controller' => [
+		'jobs' => [
+			'product' => [
+				 'import' => [
+					'csv' => [
+					 	'location' => 'tmp/',
+						 'skip-lines' => '1',
+						],
+				], // Disable caching
+			],
+		],
 	],
 
 	'i18n' => [
